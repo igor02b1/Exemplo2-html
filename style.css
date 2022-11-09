@@ -26,3 +26,32 @@ h1{
     flex-direction: row;
     height: 50px;
 }
+.gitfoto{
+    height: 100px;
+    width: 100px;
+}
+.texto1{
+    text-align: center;
+    color: red;
+}
+.texto2{
+    text-align: center;
+    color: blue;
+}
+.ironman{
+    display: block;
+    margin: 0px auto;
+    height: 500px;
+
+}
+.capitãofoto{
+    display: block;
+    margin: 0px auto;
+    height: 500px;
+}
+.tabelairon{
+    margin-left: 310px;
+}
+.tabelacap{
+    margin-left: 310px;
+}
