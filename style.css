@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color:red
+}
+.foto{
+    display: block;
+    margin: 0px auto;
+    height: 500px;
+}
+
+.btred{
+    border: none;
+    color: red;
+    margin-left: 400px;
+    margin-right: 300px;
+    height: 35px;
+
+}
+.btblue{
+    border:none;
+    color: blue;
+    height: 35px;
+}
+.aaa{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
